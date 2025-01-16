@@ -19,7 +19,7 @@ The program performs the following tasks:
 Input: Ciphertext and guessed key lengths.
 Output: IC values for each key length and the most probable correct key length.
 The program uses the Index of coincidence (IC) formula for calcualtion.
-For more information on the Index of Coincidence (IC) and its applications in cryptography, you can visit [this page ](https://pages.mtu.edu/~shene/NSF-4/Tutorial/VIG/Vig-IOC.html)on the Vigenère cipher. This link provides the IC formula and the English value of IC, both of which are useful for understanding and implementing the calculations in my code.
+For more information on the Index of Coincidence (IC) and its applications in cryptography, you can visit [Index of Coincidence ](https://pages.mtu.edu/~shene/NSF-4/Tutorial/VIG/Vig-IOC.html). This link provides the IC formula and the English value of IC, both of which are useful for understanding and implementing the calculations in my code.
 
 
 ## Testing:
